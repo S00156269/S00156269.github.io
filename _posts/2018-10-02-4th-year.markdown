@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "4th year!"
+date:   2018-10-02 16:56:26 +0100
+---
+4 weeks into our college year already! I'm glad to be back. 
+Plenty of new stuff to get to grips with, including new languages like Prolog and Python.
+And of course, our 4th year project!
+
+I've decided to create a movie review site called Auteur. It will allow users to create reviews, add friends, get intelligent recommendations, and more! I'm quite excited about it.
+It'll be built with the latest version of Angular, and styled with Angular Material using HammerJS for animations.
+This blog, which you're on right now, is powered by Github Pages and Jekyll.
+I'm currently at the initial stages of the project, gathering user stories and sussing out the component tree.
+
+Watch this space!
