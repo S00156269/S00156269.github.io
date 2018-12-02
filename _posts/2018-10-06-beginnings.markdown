@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Beginings"
-date:   2018-10-02 12:31:00 +0100
+date:   2018-10-06 12:31:00 +0100
 ---
 Things are ticking along pretty nicely. Had my first meeting with my supervisor about my 4th year project. Was very productive and enlightening! I'm going to focus on what sets Auteur apart from other movie review apps.
 

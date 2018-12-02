@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Progress"
+date:   2018-12-02 12:31:00 +0100
+---
+4th year has certainly turned out to be busy! I've made progress in terms of laying out the project, as well as research for the report. I've had some issues with CSS frameworks (the new version of Angular is very picky!) but Bootstrap is certainly serving me well.
+
+Juggling writing the thesis and developing the prototype is a challenge, but a welcome one. Onwards and upwards!
