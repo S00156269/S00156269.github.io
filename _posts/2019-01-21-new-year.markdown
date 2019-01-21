@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "A New Year"
+date:   2019-01-21 12:31:00 +0100
+---
+A belated but happy New Year! As the interim presentation approaches, I thought it'd be good to check in. Progress on the project is going smoothly, and I should have everything done in time for the presentation.
+
+Unfortunately I was ill this Christmas and I had to defer my exams in order to take some time off, which has put me back a bit. Nevertheless, I'm sure that I'll be able to show off the key features of my project.
+
+I'm excited to start my new modules this semester, especially User Experience and Machine Learning. I'm also looking forward to honing my C# skills in Advanced Programming. Here's to a productive year!
