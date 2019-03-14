@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Reputation"
+date:   2019-03-14 12:31:00 +0100
+---
+Hello again! I've been busy researching reputation systems. I've been reading the book Building Web Reputation Systems by Randy Farmer and Bryce Glass. They have an interesting viewpoint on how to grow communities and encourage good content - it's important to be able to squash the trolls and the unwanted content in your community, but it's much more important to reward users for contributing in a positive manner. Or else, who is going to use the platform? It's been a fantastic insight into how sites like Reddit, Flickr and Digg (RIP) organise the massive amount of user data on the platform into an enjoyable feed of content. It also mentions how reputation affects film reviews, which is very helpful for me! A lot of the book is a guide on how to implement a reputation system in your own project, so I'll have that open by my side as I refine and build upon my project.
+
+As well as that book, I've been reading about how critics affect rating scores, or if they merely predict them. Very relevant for nowadays, with the advent of review bombing (although that tends to be done by massive amounts of users and not critics). These seemingly silly things could have an effect on how the media is received. A recent example is Captain Marvel, and while it suffered from review bombs, it still made $455 million at the box office, which is the second-biggest global opening weekend for a superhero film. What does this tell us? Maybe that review bombing's effects are overstated? It's hard to say. It's certainly an interesting development though, and I'll have to keep an eye on the film's development as it happens.
